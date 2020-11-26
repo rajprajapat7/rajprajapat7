@@ -1,6 +1,6 @@
 ### Hi there, I'm Raj -  [website] 👋
 
-[![Website](https://img.shields.io/website?label=rajprajapat.com&style=for-the-badge&url=http%3A%2F%2Frajprajapat.com)](rajprajapat.com)
+[![Website](https://img.shields.io/website?label=rajprajapat.com&style=for-the-badge&url=http%3A%2F%2Frajprajapat.com)](http://rajprajapat.com)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/rajprajapat712?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=rajprajapat712)
 
