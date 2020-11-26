@@ -32,6 +32,12 @@
 <br />
 
 
+### 📰 Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Weather App: Progressive Web App](https://rajprajapat-7.medium.com/weather-app-progressive-web-app-4c43fb284a67)
+<!-- BLOG-POST-LIST:END -->
+
+
 ### Connect with me:
 
 [<img align="left" alt="rajprajapat.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
