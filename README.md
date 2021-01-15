@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on a [Learning][website]!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Learn to much
+- 🥅 2021 Goals: Learn to much
 - ⚡ Fun fact: I love to Learn and play Video games / listen songs
 
 
