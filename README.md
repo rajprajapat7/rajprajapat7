@@ -35,6 +35,7 @@
 ### 📰 Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Weather App: Progressive Web App](https://rajprajapat-7.medium.com/weather-app-progressive-web-app-4c43fb284a67)
+- [Optimize React Native App Size](https://rajprajapat-7.medium.com/optimize-react-native-app-size-two-steps-c9a6b536e29a)
 <!-- BLOG-POST-LIST:END -->
 
 
